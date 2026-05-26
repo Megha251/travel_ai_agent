@@ -100,7 +100,7 @@ travel_ai_agent/
 ## Step 1: Clone Project
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/Megha251/travel_ai_agent.git
 ```
 
 ---
